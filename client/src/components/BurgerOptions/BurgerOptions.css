@@ -1,0 +1,19 @@
+.options-wrapper {
+    border: 1px solid white;
+    padding: 1rem;
+    border-radius: 4px;
+}
+
+.loading-options {
+    color: #ffffff;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.options-header {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+}

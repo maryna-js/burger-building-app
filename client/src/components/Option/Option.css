@@ -1,0 +1,23 @@
+.button-wrapper {
+    background: transparent;
+    color: #ffffff;
+    border: none;
+    height: 85px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    width: 300px;
+    border-bottom: 1px solid white;
+    cursor: pointer;
+}
+
+.button-wrapper:last-child{
+    border: none;
+}
+
+.button-name {
+    padding-right: 1rem;
+}
